@@ -1,0 +1,14 @@
+{
+  "name": "agentic-skills",
+  "description": "A collection of Claude skills.",
+  "owner": {
+    "name": "mfirmansyahidris"
+  },
+  "plugins": [
+    {
+      "name": "natural-writing",
+      "source": "./plugins/natural-writing",
+      "description": "Write or revise prose so it says something specific and avoids common LLM writing habits, based on Wikipedia's \"Signs of AI writing\"."
+    }
+  ]
+}

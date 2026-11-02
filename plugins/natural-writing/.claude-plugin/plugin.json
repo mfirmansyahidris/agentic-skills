@@ -1,0 +1,15 @@
+{
+  "name": "natural-writing",
+  "version": "1.0.0",
+  "description": "Write or revise prose so it says something specific and avoids common LLM writing habits, based on Wikipedia's \"Signs of AI writing\". Includes Indonesian guidance and a pattern scanner.",
+  "author": {
+    "name": "mfirmansyahidris"
+  },
+  "license": "CC-BY-SA-4.0",
+  "keywords": [
+    "writing",
+    "editing",
+    "style",
+    "bahasa-indonesia"
+  ]
+}
